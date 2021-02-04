@@ -1,0 +1,3 @@
+# Clone of pinterest
+
+clone
